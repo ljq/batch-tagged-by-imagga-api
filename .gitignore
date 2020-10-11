@@ -1,5 +1,6 @@
 __pycache__
 requirements.txt
 images/*
+!images/.gitkeep
 output/*
 !output/.gitkeep
